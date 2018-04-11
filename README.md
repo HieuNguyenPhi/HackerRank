@@ -16,17 +16,18 @@ Comparison points is the total points a person earned.
 
 Given A and B, can you compare the two challenges and print their respective comparison points?
 
-Input Format
+### Input Format
 
 The first line contains 3 space-separated integers, a[0], a[1], and a[2], describing the respective values in triplet . 
 
 The second line contains 3 space-separated integers, b[0], b[1], and b[2], describing the respective values in triplet .
 
-Constraints
+### Constraints
 
 1 < a[i] < 100
 
 1< b[i] < 100
-Output Format
+
+### Output Format
 
 Print two space-separated integers denoting the respective comparison points earned by Alice and Bob.
